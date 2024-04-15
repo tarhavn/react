@@ -1,4 +1,15 @@
+# dependencies /node_modules
+/1. Color renderer .11/executable/color-renderer/node_modules/
+
+# testing /coverage
+/1. Color renderer .11/executable/color-renderer/coverage/
+
+# production /build
+/1. Color renderer .11/executable/color-renderer/build/
+
+# misc
 .DS_Store
-node_modules
-.tmp
-npm-debug.log
+.env
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
