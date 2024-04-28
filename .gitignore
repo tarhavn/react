@@ -1,11 +1,41 @@
 # dependencies /node_modules
 /1. Color renderer .11/executable/color-renderer/node_modules/
+/2. Dark mode .11/executable/dark-mode/node_modules/
+/3. Form validator .11/executable/form-validator/node_modules/
+/4. Dog pictures .11/executable/dog-pictures/node_modules/
+/5. Score keeper .11/executable/score-keeper/node_modules/
+/6. Window event .11/executable/window-event/node_modules/
+/7. Color picker .11/executable/color-picker/node_modules/
+/8. Pixel art .11/executable/pixel-art/node_modules/
+/9. Simple calculator .11/executable/simple-calculator/node_modules/
+/10. Focus an input  .11/executable/focus-an-input/node_modules/
+/11. Shopping cart .11/executable/shopping-cart/node_modules/
 
 # testing /coverage
 /1. Color renderer .11/executable/color-renderer/coverage/
+/2. Dark mode .11/executable/dark-mode/coverage/
+/3. Form validator .11/executable/form-validator/coverage/
+/4. Dog pictures .11/executable/dog-pictures/coverage/
+/5. Score keeper .11/executable/score-keeper/coverage/
+/6. Window event .11/executable/window-event/coverage/
+/7. Color picker .11/executable/color-picker/coverage/
+/8. Pixel art .11/executable/pixel-art/coverage/
+/9. Simple calculator .11/executable/simple-calculator/coverage/
+/10. Focus an input  .11/executable/focus-an-input/coverage/
+/11. Shopping cart .11/executable/shopping-cart/coverage/
 
 # production /build
 /1. Color renderer .11/executable/color-renderer/build/
+/2. Dark mode .11/executable/dark-mode/build/
+/3. Form validator .11/executable/form-validator/build/
+/4. Dog pictures .11/executable/dog-pictures/build/
+/5. Score keeper .11/executable/score-keeper/build/
+/6. Window event .11/executable/window-event/build/
+/7. Color picker .11/executable/color-picker/build/
+/8. Pixel art .11/executable/pixel-art/build/
+/9. Simple calculator .11/executable/simple-calculator/build/
+/10. Focus an input  .11/executable/focus-an-input/build/
+/11. Shopping cart .11/executable/shopping-cart/build/
 
 # misc
 .DS_Store
